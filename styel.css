@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(213, 247, 245);
+
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    width: 10%;
+    border-width: 13px;
+}
+h1 , h3{
+    color: rgb(55, 209, 214);
+}
+
+h4{
+    color: rgb(29, 20, 151);
+}
+
+.Top {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+.Mid{
+    background-color: crimson;
+    width: 200px;
+    height: 200px;
+}
+.Foot{
+    background-color: cyan;
+    width: 200px;
+    height: 200px;
+}
